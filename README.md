@@ -1,4 +1,4 @@
-## Hi there 👋
+## Whats up :3
 
 <!--
 **Gooseride/Gooseride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
